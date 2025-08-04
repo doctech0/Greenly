@@ -1,2 +1,2 @@
-# Greenly
-Uma empresa de ervas
+# E-comerce Greenly 
+Nossa empresa de Ervas
